@@ -1,3 +1,4 @@
 add some text to it
 save it
 stage it
+adding some more text 
